@@ -1,0 +1,13 @@
+[
+  ["campus", "Campus entrance (illustration)", "مدخل الحرم الجامعي (رسم توضيحي)"],
+  ["lab", "Computer lab (illustration)", "معمل الحاسب (رسم توضيحي)"],
+  ["hall", "Lecture hall (illustration)", "قاعة المحاضرات (رسم توضيحي)"],
+  ["auditorium", "Tiered lecture auditorium (illustration)", "مدرج محاضرات (رسم توضيحي)"],
+  ["computer_lab", "Computer workstations (illustration)", "محطات معمل الحاسب (رسم توضيحي)"],
+  ["classroom", "Teaching classroom (illustration)", "قاعة تدريس (رسم توضيحي)"],
+  ["cs", "Developer workstation (illustration)", "محطة عمل للبرمجة (رسم توضيحي)"],
+  ["it", "Network laboratory (illustration)", "معمل الشبكات (رسم توضيحي)"],
+  ["ai", "Artificial intelligence project (illustration)", "مشروع ذكاء اصطناعي (رسم توضيحي)"],
+  ["mm", "Multimedia studio (illustration)", "استوديو الوسائط المتعددة (رسم توضيحي)"],
+  ["inno", "Student innovation (illustration)", "ابتكار طلابي (رسم توضيحي)"]
+]

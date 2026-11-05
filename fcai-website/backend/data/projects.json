@@ -1,0 +1,109 @@
+[
+  {
+    "k": "it",
+    "im": "p_net",
+    "en": "Campus network monitor",
+    "ar": "مراقب شبكة الحرم",
+    "t": [
+      "Networking",
+      "Python"
+    ],
+    "ae": "Illustrative demo: a dashboard that tracks network health.",
+    "aa": "مثال توضيحي: لوحة تتابع حالة الشبكة."
+  },
+  {
+    "k": "cs",
+    "im": "p_ml",
+    "en": "Arabic text classifier",
+    "ar": "مصنّف النصوص العربية",
+    "t": [
+      "AI",
+      "Python"
+    ],
+    "ae": "Illustrative demo: a model that sorts Arabic text by topic.",
+    "aa": "مثال توضيحي: نموذج يصنّف النصوص العربية حسب الموضوع."
+  },
+  {
+    "k": "is",
+    "im": "p_dash",
+    "en": "Records analytics dashboard",
+    "ar": "لوحة تحليلات السجلات",
+    "t": [
+      "Data systems",
+      "SQL"
+    ],
+    "ae": "Illustrative demo: reporting over a records database.",
+    "aa": "مثال توضيحي: تقارير فوق قاعدة بيانات."
+  },
+  {
+    "k": "mm",
+    "im": "p_3d",
+    "en": "Interactive 3D campus tour",
+    "ar": "جولة ثلاثية الأبعاد",
+    "t": [
+      "Multimedia",
+      "3D"
+    ],
+    "ae": "Illustrative demo: a browsable 3D walkthrough.",
+    "aa": "مثال توضيحي: جولة ثلاثية الأبعاد."
+  },
+  {
+    "k": "it",
+    "im": "sec",
+    "en": "Intrusion alert console",
+    "ar": "لوحة تنبيهات الاختراق",
+    "t": [
+      "Cybersecurity"
+    ],
+    "ae": "Illustrative demo: a console that lists security alerts.",
+    "aa": "مثال توضيحي: لوحة تعرض تنبيهات أمنية."
+  },
+  {
+    "k": "cs",
+    "im": "p_web",
+    "en": "Student services web app",
+    "ar": "تطبيق ويب لخدمات الطلاب",
+    "t": [
+      "Web",
+      "JavaScript"
+    ],
+    "ae": "Illustrative demo: a web interface for common services.",
+    "aa": "مثال توضيحي: واجهة ويب لخدمات شائعة."
+  },
+  {
+    "k": "cs",
+    "im": "ai",
+    "en": "Smart energy use forecast",
+    "ar": "توقّع ذكي لاستهلاك الطاقة",
+    "t": ["AI", "Data"],
+    "ae": "Illustrative demo project. The sample model estimates building energy demand.",
+    "aa": "مشروع توضيحي تجريبي يتوقع احتياج المباني للطاقة."
+  },
+  {
+    "k": "cs",
+    "im": "cs",
+    "en": "Arabic course-topic classifier",
+    "ar": "مصنّف موضوعات المقررات العربية",
+    "t": ["NLP", "Python"],
+    "ae": "Illustrative demo project. A prototype groups short Arabic course descriptions by topic.",
+    "aa": "مشروع توضيحي يصنّف وصف المقررات العربية حسب الموضوع."
+  },
+  {
+    "k": "is",
+    "im": "is",
+    "en": "Interactive library catalogue",
+    "ar": "فهرس تفاعلي للمكتبة",
+    "t": ["Databases", "UX"],
+    "ae": "Illustrative demo project. A prototype searches and filters a sample catalogue.",
+    "aa": "مشروع توضيحي لفهرسة عناصر مكتبة تجريبية والبحث فيها."
+  },
+  {
+    "k": "it",
+    "im": "inno",
+    "en": "Campus sensor dashboard",
+    "ar": "لوحة حساسات الحرم الجامعي",
+    "t": ["IoT", "Networks"],
+    "ae": "Illustrative demo project. A simulated dashboard shows readings from sample sensors.",
+    "aa": "مشروع توضيحي يعرض قراءات حساسات افتراضية."
+  }
+]

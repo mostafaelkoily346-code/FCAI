@@ -1,0 +1,14 @@
+{
+  "name": "fcai-website",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node backend/server.js",
+    "admin:create": "node backend/create-admin.js",
+    "admin:password": "node backend/set-admin-password.js",
+    "test": "node --test backend/server.test.js"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "t": "lec",
+    "d": "cs",
+    "en": "Sample lecture notes: algorithms",
+    "ar": "عيّنة تجريبية: مذكرة خوارزميات"
+  },
+  {
+    "t": "ref",
+    "d": "is",
+    "en": "Sample reference: database design",
+    "ar": "عيّنة تجريبية: مرجع تصميم قواعد البيانات"
+  },
+  {
+    "t": "pap",
+    "d": "it",
+    "en": "Sample paper: network security",
+    "ar": "عيّنة تجريبية: بحث أمن الشبكات"
+  },
+  {
+    "t": "prj",
+    "d": "mm",
+    "en": "Sample graduation project report",
+    "ar": "عيّنة تجريبية: تقرير مشروع تخرج"
+  },
+  {
+    "t": "lec",
+    "d": "it",
+    "en": "Sample lecture notes: computer networks",
+    "ar": "عيّنة تجريبية: مذكرة شبكات الحاسب"
+  },
+  {
+    "t": "ref",
+    "d": "cs",
+    "en": "Sample reference: machine learning",
+    "ar": "عيّنة تجريبية: مرجع تعلّم الآلة"
+  },
+  {
+    "t": "lec",
+    "d": "is",
+    "en": "Sample lecture notes: systems analysis",
+    "ar": "عيّنة تجريبية: مذكرة تحليل النظم"
+  },
+  {
+    "t": "pap",
+    "d": "cs",
+    "en": "Sample paper: natural language processing",
+    "ar": "عيّنة تجريبية: بحث معالجة اللغات الطبيعية"
+  },
+  {
+    "t": "prj",
+    "d": "it",
+    "en": "Sample project brief: smart campus network",
+    "ar": "عيّنة تجريبية: وصف مشروع شبكة الحرم الذكي"
+  },
+  {
+    "t": "ref",
+    "d": "mm",
+    "en": "Sample reference: interactive media design",
+    "ar": "عيّنة تجريبية: مرجع تصميم الوسائط التفاعلية"
+  },
+  {
+    "t": "lec",
+    "d": "mm",
+    "en": "Sample lecture notes: computer graphics",
+    "ar": "عيّنة تجريبية: مذكرة رسوم الحاسب"
+  },
+  {
+    "t": "pap",
+    "d": "is",
+    "en": "Sample paper: data visualization",
+    "ar": "عيّنة تجريبية: بحث تصور البيانات"
+  }
+]

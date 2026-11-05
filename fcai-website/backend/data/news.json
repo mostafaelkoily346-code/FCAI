@@ -1,0 +1,66 @@
+[
+  {
+    "c": "a",
+    "u": 1,
+    "d": null,
+    "k": "hall",
+    "en": "Sample: exam timetable notice",
+    "ar": "عيّنة: إشعار جدول الامتحانات",
+    "be": "Sample text. Real notices will be published by the faculty.",
+    "ba": "نص تجريبي. ستنشر الكلية الإشعارات الرسمية."
+  },
+  {
+    "c": "p",
+    "d": null,
+    "k": "icpc",
+    "en": "Sample: ICPC-style contest preparation",
+    "ar": "عيّنة: التحضير لمسابقات برمجة بنمط ICPC",
+    "be": "Sample text. No event has been announced and no affiliation is implied.",
+    "ba": "نص تجريبي. لم يُعلن عن أي فعالية ولا يُقصد أي ارتباط رسمي."
+  },
+  {
+    "c": "i",
+    "d": null,
+    "k": "ieee",
+    "en": "Sample: student engineering activity",
+    "ar": "عيّنة: نشاط طلابي هندسي",
+    "be": "Sample text. No event has been announced and no affiliation is implied.",
+    "ba": "نص تجريبي. لم يُعلن عن أي فعالية ولا يُقصد أي ارتباط رسمي."
+  },
+  {
+    "c": "p",
+    "d": null,
+    "k": "cs",
+    "en": "Sample: programming contest practice session",
+    "ar": "عيّنة: جلسة تدريب على مسابقات البرمجة",
+    "be": "Sample text. No event has been announced and no affiliation is implied.",
+    "ba": "نص تجريبي. لم يُعلن عن أي فعالية ولا يُقصد أي ارتباط رسمي."
+  },
+  {
+    "c": "t",
+    "d": null,
+    "k": "inno",
+    "en": "Sample: student technology initiative",
+    "ar": "عيّنة: مبادرة تقنية طلابية",
+    "be": "Sample text. No event has been announced and no affiliation is implied.",
+    "ba": "نص تجريبي. لم يُعلن عن أي فعالية ولا يُقصد أي ارتباط رسمي."
+  },
+  {
+    "c": "t",
+    "d": null,
+    "k": "ai",
+    "en": "Sample: seminar on artificial intelligence",
+    "ar": "عيّنة: ندوة عن الذكاء الاصطناعي",
+    "be": "Sample text. No event has been announced and no affiliation is implied.",
+    "ba": "نص تجريبي. لم يُعلن عن أي فعالية ولا يُقصد أي ارتباط رسمي."
+  },
+  {
+    "c": "a",
+    "d": null,
+    "k": "campus",
+    "en": "Sample: registration notice",
+    "ar": "عيّنة: إشعار التسجيل",
+    "be": "Sample text. Dates will come from the faculty.",
+    "ba": "نص تجريبي. ستأتي المواعيد من الكلية."
+  }
+]
